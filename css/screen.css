@@ -1,0 +1,40 @@
+@media screen and (min-width: 360px) and (max-width: 720px){
+    .botones{
+        width: 90%;
+        height: 35%;
+        float: left;
+    }
+    .horario_100{
+        width: 100%;
+        height: 92%;
+        float: left;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 80%;
+    }
+
+    body{
+        background: url("../img/kawaii_02.jpg");
+        background-size: 100%;
+    }
+    .semana_1{
+        width: 100%;
+        height: 9%;
+        margin-top: 1%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        float: left;
+    }
+    .dia{
+        float: left;
+        width: 17%;
+        margin: 0% auto;
+        height: 100%;
+    }
+
+    .dia_h{
+        width: 10%;
+    }
+}
