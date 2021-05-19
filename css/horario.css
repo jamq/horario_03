@@ -1,0 +1,136 @@
+.cuerpo_horario{
+    width: 100%;
+    height: 100vh;
+    float: left;
+}
+
+.titulo_horario{
+    width: 100%;
+    height: 10%;
+    float: left;
+    background-color: #4E6BA6;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.volver{
+    width: 100%;
+    height: 10%;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.volver_btn{
+    width: 30%;
+    height: 70%;
+    background-color: #213459;
+    color: #ffffff;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+
+.volver_btn:hover{
+    background-color: #4E6BA6;
+}
+
+.cuerpo_semana{
+    width: 100%;
+    height: 80%;
+    float: left;
+}
+
+.len{
+    background-color: #F194F2;
+}
+.mat{
+    background-color: #0071C3;
+}
+.cn{
+    background-color: #538136;
+}
+.av{
+    background-color: #9BC1E6;
+}
+.ing{
+    background-color: #FED966;
+}
+.his{
+    background-color: #826000;
+}
+.ef{
+    background-color: #90D14B;
+}
+.mus{
+    background-color: #F4AF84;
+}
+.rel{
+    background-color: #8397B0;
+}
+.ori{
+    background-color: #757271;
+}
+
+.nada{
+    background-color: #ffffff;
+}
+
+.len01{
+    background-color: #FEB5FF;
+}
+.mat01{
+    background-color: #1FA9FF;
+}
+.cn01{
+    background-color: #91CF6B;
+}
+.av01{
+    background-color: #C4E2FF;
+}
+.ing01{
+    background-color: #FFDF80;
+}
+.his01{
+    background-color: #CF9D15;
+}
+.ef01{
+    background-color: #BCFF75;
+}
+.mus01{
+    background-color: #FFC6A3;
+}
+.rel01{
+    background-color: #D4E6FC;
+}
+.ori01{
+    background-color: #C2C2C2;
+}
+
+#cero{
+    width: 0%;
+}
+#veinte{
+    width: 22%;
+}
+#cincuenta{
+    width: 50%;
+}
+#cien{
+    width: 100%;
+}
+#trescuatro{
+    width: 100%;
+}
+#trestres{
+    width: 100%;
+}
+
+.arriba{
+    transition: 2s;
+}
